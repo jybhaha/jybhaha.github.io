@@ -81,7 +81,7 @@ td.code {
 }
 
 .linenodiv pre {
-    border-radius:3px 0px 0px 3px;
+    border-radius:10px 0px 0px 10px;
     color:rgb(101,123,131);
     background-color:rgb(238,232,213);
 }
