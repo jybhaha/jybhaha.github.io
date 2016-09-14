@@ -4,21 +4,21 @@ xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitem
 xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
-<loc>http://localhost:8000/</loc>
-<lastmod>2016-09-14T14:37:44-00:00</lastmod>
+<loc>http://jybhaha.github.io/</loc>
+<lastmod>2016-09-14T15:05:20-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://localhost:8000/categories.html</loc>
-<lastmod>2016-09-14T14:37:44-00:00</lastmod>
+<loc>http://jybhaha.github.io/categories.html</loc>
+<lastmod>2016-09-14T15:05:20-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://localhost:8000/Python.html</loc>
+<loc>http://jybhaha.github.io/Python.html</loc>
 <lastmod>2016-09-08T00:00:00+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
